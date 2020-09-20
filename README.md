@@ -1,4 +1,4 @@
-# AllenNLP-Coreference-Resolution-in-Python---Readable-clusters
+# AllenNLP-Coreference-Resolution---Readable-clusters
 ## Using AllenNLP Coreference Resolution in Python (getting clusters which are ACTUALLY readable)
 
 There's been a dearth of documentation on the front of how to use AllenNLP's amazing coreference resolution. While the code to use it as a library in python is available on the site (https://demo.allennlp.org/coreference-resolution), once you get the results its quite confusing initially to know what to make of them. I hope that this repository is useful to you in using this poweful, pre-trained Natural Language Processing model.
